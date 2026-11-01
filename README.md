@@ -21,8 +21,8 @@ Prasyarat: Node.js 18 atau lebih baru.
 
 ```bash
 # 1. Clone
-git clone https://github.com/<username>/civicpulse.git
-cd civicpulse
+git clone https://github.com/PehPulo/Peh-Pulo-civicpulse.git
+cd Peh-Pulo-civicpulse
 
 # 2. Install
 npm install
